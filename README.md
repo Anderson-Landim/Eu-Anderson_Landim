@@ -63,19 +63,15 @@ Trabalho com **Python, Django, FastAPI e bancos de dados relacionais**, sempre b
 
 ## 💡 Projetos em Destaque  
 
-- 🧠 **[IA de Análise de Bancos de Dados](https://github.com/Anderson-Landim/IA-Contabil)**  
-  Sistema com **FastAPI + OpenAI API + SQLite**, capaz de analisar dados contábeis e gerar relatórios automáticos.
+- 🤖 **[Bot Gerador de Dados](https://github.com/Anderson-Landim/bot_gerador_de_dados)**  
+  Ferramenta desenvolvida em **Python + Tkinter + SQLite + OpenPyXL** para gerar **dados simulados** (clientes, produtos e notas fiscais) com **erros controlados**, ideal para testes em sistemas de leitura e validação de documentos.
 
-- ⚙️ **[Sistema Django com Chat Integrado](https://github.com/Anderson-Landim/Django-IA-App)**  
-  Aplicação web com **Django + OpenAI API**, editor HTML e integração com banco SQLite.
+- 📦 **[Sistema de Gerenciamento de Estoque](https://github.com/Anderson-Landim/Sistema-de-gerenciamento-de-Estoque)**  
+  Sistema em **Python + Tkinter + SQLite** para controle de **entradas, saídas e níveis de estoque**, com interface amigável e relatórios automáticos — voltado à área **logística e operacional**.
 
-- 🤖 **[Automatizador de Processos em Python](https://github.com/Anderson-Landim/Automatizador)**  
-  Script com **Selenium + BeautifulSoup + Pandas** para extração e tratamento de dados.
+- 🎬 **[Ferramenta de Corte de Vídeo](https://github.com/Anderson-Landim/ferramente_de_corte_de_video)**  
+  Aplicativo em **Python + MoviePy** para **recorte, junção e exportação de vídeos** de forma prática e rápida, com interface simples e eficiente.
 
-- 📊 **[Dashboard de Monitoramento de Produção](https://github.com/Anderson-Landim/Dashboard-Industria)**  
-  Interface desenvolvida com **Tkinter + Matplotlib + SQLite** para controle de produção em tempo real.
-
----
 
 ## 📈 Estatísticas do GitHub  
 
