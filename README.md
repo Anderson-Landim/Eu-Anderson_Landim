@@ -67,7 +67,7 @@ Trabalho com **Python, Django, FastAPI e bancos de dados relacionais**, sempre b
   Ferramenta desenvolvida em **Python + Tkinter + SQLite + OpenPyXL** para gerar **dados simulados** (clientes, produtos e notas fiscais) com **erros controlados**, ideal para testes em sistemas de leitura e validação de documentos.
 
 - 📦 **[Sistema de Gerenciamento de Estoque](https://github.com/Anderson-Landim/Sistema-de-gerenciamento-de-Estoque)**  
-  Sistema em **Python + Tkinter + SQLite** para controle de **entradas, saídas e níveis de estoque**, com interface amigável e relatórios automáticos — voltado à área **logística e operacional**.
+  Sistema em **Python + Django + JS + CSS + HTML + SQLite** para controle de **entradas, saídas e níveis de estoque**, com interface amigável e relatórios automáticos — voltado à área **logística e operacional**.
 
 - 🎬 **[Ferramenta de Corte de Vídeo](https://github.com/Anderson-Landim/ferramente_de_corte_de_video)**  
   Aplicativo em **Python + MoviePy** para **recorte, junção e exportação de vídeos** de forma prática e rápida, com interface simples e eficiente.
